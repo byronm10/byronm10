@@ -1,5 +1,5 @@
 
-[(https://www.canva.com/design/DAFO3UzxpNk/SuFuvZlm4hSnd2vvGrbquw/view)]
+![](https://github.com/byronm10/byronm10/blob/main/Banner%20de%20LinkedIn%20Tecnolog%C3%ADa%20Abstracto%20Azul%20y%20Blanco.png) 
 
 <h1 align="center">Hi 👋, I'm Byron Martinez</h1>
 <h3 align="center">DevOps, Software & Hardware Developer.</h3>
